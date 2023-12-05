@@ -1,0 +1,8 @@
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task2.V8.Lib\bin\Debug\Tyuiu.TarasovVD.Sprint6.Task2.V8.Lib.dll
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task2.V8.Lib\bin\Debug\Tyuiu.TarasovVD.Sprint6.Task2.V8.Lib.pdb
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task2.V8.Lib\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task2.V8.Lib\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task2.V8.Lib.csproj.AssemblyReference.cache
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task2.V8.Lib\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task2.V8.Lib.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task2.V8.Lib\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task2.V8.Lib.csproj.CopyComplete
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task2.V8.Lib\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task2.V8.Lib.dll
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task2.V8.Lib\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task2.V8.Lib.pdb

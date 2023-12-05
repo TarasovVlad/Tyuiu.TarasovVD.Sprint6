@@ -1,0 +1,16 @@
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib.csproj.AssemblyReference.cache
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib\bin\Debug\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib.dll
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib\bin\Debug\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib.pdb
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib.csproj.CopyComplete
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib.dll
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib.pdb
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib\bin\Debug\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib.dll
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib\bin\Debug\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib.pdb
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib.csproj.CopyComplete
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib.dll
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task5.V18.Lib.pdb

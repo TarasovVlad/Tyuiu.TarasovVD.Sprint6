@@ -1,0 +1,17 @@
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30.Test\bin\Debug\Tyuiu.TarasovVD.Sprint6.Task3.V30.Test.dll
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30.Test\bin\Debug\Tyuiu.TarasovVD.Sprint6.Task3.V30.Test.pdb
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30.Test\bin\Debug\Tyuiu.TarasovVD.Sprint6.Task3.V30.Lib.dll
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30.Test\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30.Test\bin\Debug\Tyuiu.TarasovVD.Sprint6.Task3.V30.Lib.pdb
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30.Test\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task3.V30.Test.csproj.AssemblyReference.cache
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30.Test\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task3.V30.Test.csproj.CoreCompileInputs.cache
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30.Test\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task3.V30.Test.csproj.CopyComplete
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30.Test\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task3.V30.Test.dll
+C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30.Test\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task3.V30.Test.pdb
