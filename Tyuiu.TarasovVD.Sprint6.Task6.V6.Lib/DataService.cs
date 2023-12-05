@@ -10,7 +10,7 @@ namespace Tyuiu.TarasovVD.Sprint6.Task6.V6.Lib
 {
     public class DataService : ISprint6Task6V6
     {
-        public string CollectTextFromFile(string str, string path)
+        public string CollectTextFromFile(string path)
         {
             string resStr = "";
             using (StreamReader reader = new StreamReader(path))

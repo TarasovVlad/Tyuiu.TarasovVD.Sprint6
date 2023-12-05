@@ -70,9 +70,10 @@ namespace Tyuiu.TarasovVD.Sprint6.Task6.V6
             // groupBoxTask_TVD
             // 
             this.groupBoxTask_TVD.Controls.Add(this.labelInfo_TVD);
-            this.groupBoxTask_TVD.Location = new System.Drawing.Point(13, 66);
+            this.groupBoxTask_TVD.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.groupBoxTask_TVD.Location = new System.Drawing.Point(0, 72);
             this.groupBoxTask_TVD.Name = "groupBoxTask_TVD";
-            this.groupBoxTask_TVD.Size = new System.Drawing.Size(613, 61);
+            this.groupBoxTask_TVD.Size = new System.Drawing.Size(634, 61);
             this.groupBoxTask_TVD.TabIndex = 1;
             this.groupBoxTask_TVD.TabStop = false;
             this.groupBoxTask_TVD.Text = "Условие";
@@ -80,7 +81,8 @@ namespace Tyuiu.TarasovVD.Sprint6.Task6.V6
             // labelInfo_TVD
             // 
             this.labelInfo_TVD.AutoSize = true;
-            this.labelInfo_TVD.Location = new System.Drawing.Point(7, 20);
+            this.labelInfo_TVD.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.labelInfo_TVD.Location = new System.Drawing.Point(3, 16);
             this.labelInfo_TVD.Name = "labelInfo_TVD";
             this.labelInfo_TVD.Size = new System.Drawing.Size(598, 26);
             this.labelInfo_TVD.TabIndex = 0;
@@ -183,6 +185,7 @@ namespace Tyuiu.TarasovVD.Sprint6.Task6.V6
             this.buttonDone_TVD.Name = "buttonDone_TVD";
             this.buttonDone_TVD.Size = new System.Drawing.Size(75, 56);
             this.buttonDone_TVD.TabIndex = 2;
+            this.toolTip_TVD.SetToolTip(this.buttonDone_TVD, "Выполнить\r\nВыполнить обработку данных");
             this.buttonDone_TVD.UseVisualStyleBackColor = true;
             this.buttonDone_TVD.Click += new System.EventHandler(this.buttonDone_TVD_Click);
             // 

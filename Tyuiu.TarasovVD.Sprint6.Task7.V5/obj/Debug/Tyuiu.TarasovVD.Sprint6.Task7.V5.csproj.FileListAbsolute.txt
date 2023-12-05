@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task7.V5\bin\Debug\Tyuiu.TarasovVD.Sprint6.Task7.V5.exe.config
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task7.V5\bin\Debug\Tyuiu.TarasovVD.Sprint6.Task7.V5.exe
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task7.V5\bin\Debug\Tyuiu.TarasovVD.Sprint6.Task7.V5.pdb
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task7.V5\bin\Debug\Tyuiu.TarasovVD.Sprint6.Task7.V5.Lib.dll
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task7.V5\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task7.V5\bin\Debug\Tyuiu.TarasovVD.Sprint6.Task7.V5.Lib.pdb
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task7.V5\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task7.V5.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task7.V5\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task7.V5.FormMain.resources
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task7.V5\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task7.V5.Properties.Resources.resources
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task7.V5\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task7.V5.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task7.V5\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task7.V5.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task7.V5\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task7.V5.csproj.CopyComplete
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task7.V5\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task7.V5.exe
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task7.V5\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task7.V5.pdb
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task7.V5\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task7.V5.FormAbout.resources

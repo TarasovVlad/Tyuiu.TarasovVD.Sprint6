@@ -12,3 +12,17 @@ C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task
 C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task3.V30.csproj.CopyComplete
 C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task3.V30.exe
 C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task3.V30.pdb
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30\bin\Debug\Tyuiu.TarasovVD.Sprint6.Task3.V30.exe.config
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30\bin\Debug\Tyuiu.TarasovVD.Sprint6.Task3.V30.exe
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30\bin\Debug\Tyuiu.TarasovVD.Sprint6.Task3.V30.pdb
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30\bin\Debug\Tyuiu.TarasovVD.Sprint6.Task3.V30.Lib.dll
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30\bin\Debug\tyuiu.cources.programming.interfaces.dll
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30\bin\Debug\Tyuiu.TarasovVD.Sprint6.Task3.V30.Lib.pdb
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task3.V30.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task3.V30.FormMain.resources
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task3.V30.Properties.Resources.resources
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task3.V30.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task3.V30.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task3.V30.csproj.CopyComplete
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task3.V30.exe
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task3.V30\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task3.V30.pdb

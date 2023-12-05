@@ -30,20 +30,11 @@ namespace Tyuiu.TarasovVD.Sprint6.Task6.V6
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormAbout));
-            this.pictureBoxPhoto_TVD = new System.Windows.Forms.PictureBox();
             this.labelInfo_TVD = new System.Windows.Forms.Label();
             this.buttonOK_TVD = new System.Windows.Forms.Button();
+            this.pictureBoxPhoto_TVD = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBoxPhoto_TVD)).BeginInit();
             this.SuspendLayout();
-            // 
-            // pictureBoxPhoto_TVD
-            // 
-            this.pictureBoxPhoto_TVD.Image = global::Tyuiu.TarasovVD.Sprint6.Task6.V6.Properties.Resources.qnu7dm_VY74__1__min;
-            this.pictureBoxPhoto_TVD.Location = new System.Drawing.Point(13, 13);
-            this.pictureBoxPhoto_TVD.Name = "pictureBoxPhoto_TVD";
-            this.pictureBoxPhoto_TVD.Size = new System.Drawing.Size(100, 136);
-            this.pictureBoxPhoto_TVD.TabIndex = 0;
-            this.pictureBoxPhoto_TVD.TabStop = false;
             // 
             // labelInfo_TVD
             // 
@@ -63,6 +54,15 @@ namespace Tyuiu.TarasovVD.Sprint6.Task6.V6
             this.buttonOK_TVD.Text = "Ок";
             this.buttonOK_TVD.UseVisualStyleBackColor = true;
             this.buttonOK_TVD.Click += new System.EventHandler(this.buttonOK_TVD_Click);
+            // 
+            // pictureBoxPhoto_TVD
+            // 
+            this.pictureBoxPhoto_TVD.Image = ((System.Drawing.Image)(resources.GetObject("pictureBoxPhoto_TVD.Image")));
+            this.pictureBoxPhoto_TVD.Location = new System.Drawing.Point(13, 13);
+            this.pictureBoxPhoto_TVD.Name = "pictureBoxPhoto_TVD";
+            this.pictureBoxPhoto_TVD.Size = new System.Drawing.Size(100, 136);
+            this.pictureBoxPhoto_TVD.TabIndex = 0;
+            this.pictureBoxPhoto_TVD.TabStop = false;
             // 
             // FormAbout
             // 

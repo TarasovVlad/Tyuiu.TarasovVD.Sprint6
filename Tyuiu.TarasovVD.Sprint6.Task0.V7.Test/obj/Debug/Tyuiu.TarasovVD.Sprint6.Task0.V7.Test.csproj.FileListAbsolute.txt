@@ -31,3 +31,4 @@ C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task
 C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task0.V7.Test\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task0.V7.Test.csproj.CopyComplete
 C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task0.V7.Test\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task0.V7.Test.dll
 C:\Users\vladi\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task0.V7.Test\obj\Debug\Tyuiu.TarasovVD.Sprint6.Task0.V7.Test.pdb
+C:\Users\User\source\repos\Tyuiu.TarasovVD.Sprint6\Tyuiu.TarasovVD.Sprint6.Task0.V7.Test\bin\Debug\tyuiu.cources.programming.interfaces.dll
