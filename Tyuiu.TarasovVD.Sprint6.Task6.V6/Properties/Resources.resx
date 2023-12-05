@@ -130,4 +130,10 @@
   <data name="help" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\help.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="qnu7dm-VY74 (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\qnu7dm-VY74 (1).jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="qnu7dm-VY74 (1)-min" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\qnu7dm-VY74 (1)-min.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

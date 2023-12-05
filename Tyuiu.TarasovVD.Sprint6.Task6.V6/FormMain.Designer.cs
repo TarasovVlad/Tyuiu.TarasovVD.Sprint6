@@ -32,11 +32,8 @@ namespace Tyuiu.TarasovVD.Sprint6.Task6.V6
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormMain));
             this.panelTop_TVD = new System.Windows.Forms.Panel();
-            this.buttonHelp_TVD = new System.Windows.Forms.Button();
-            this.buttonDone_TVD = new System.Windows.Forms.Button();
             this.groupBoxTask_TVD = new System.Windows.Forms.GroupBox();
             this.labelInfo_TVD = new System.Windows.Forms.Label();
-            this.buttonOpenFile_TVD = new System.Windows.Forms.Button();
             this.panelLeft_TVD = new System.Windows.Forms.Panel();
             this.groupBoxInPutData_TVD = new System.Windows.Forms.GroupBox();
             this.textBoxInPutData_TVD = new System.Windows.Forms.TextBox();
@@ -46,6 +43,9 @@ namespace Tyuiu.TarasovVD.Sprint6.Task6.V6
             this.textBoxOutPutData_TVD = new System.Windows.Forms.TextBox();
             this.openFileDialogTask_TVD = new System.Windows.Forms.OpenFileDialog();
             this.toolTip_TVD = new System.Windows.Forms.ToolTip(this.components);
+            this.buttonHelp_TVD = new System.Windows.Forms.Button();
+            this.buttonDone_TVD = new System.Windows.Forms.Button();
+            this.buttonOpenFile_TVD = new System.Windows.Forms.Button();
             this.panelTop_TVD.SuspendLayout();
             this.groupBoxTask_TVD.SuspendLayout();
             this.panelLeft_TVD.SuspendLayout();
@@ -67,26 +67,6 @@ namespace Tyuiu.TarasovVD.Sprint6.Task6.V6
             this.panelTop_TVD.Size = new System.Drawing.Size(634, 133);
             this.panelTop_TVD.TabIndex = 0;
             // 
-            // buttonHelp_TVD
-            // 
-            this.buttonHelp_TVD.Location = new System.Drawing.Point(547, 4);
-            this.buttonHelp_TVD.Name = "buttonHelp_TVD";
-            this.buttonHelp_TVD.Size = new System.Drawing.Size(75, 56);
-            this.buttonHelp_TVD.TabIndex = 3;
-            this.toolTip_TVD.SetToolTip(this.buttonHelp_TVD, "Сведения о программе");
-            this.buttonHelp_TVD.UseVisualStyleBackColor = true;
-            this.buttonHelp_TVD.Click += new System.EventHandler(this.buttonHelp_TVD_Click);
-            // 
-            // buttonDone_TVD
-            // 
-            this.buttonDone_TVD.Enabled = false;
-            this.buttonDone_TVD.Location = new System.Drawing.Point(84, 3);
-            this.buttonDone_TVD.Name = "buttonDone_TVD";
-            this.buttonDone_TVD.Size = new System.Drawing.Size(75, 56);
-            this.buttonDone_TVD.TabIndex = 2;
-            this.buttonDone_TVD.UseVisualStyleBackColor = true;
-            this.buttonDone_TVD.Click += new System.EventHandler(this.buttonDone_TVD_Click);
-            // 
             // groupBoxTask_TVD
             // 
             this.groupBoxTask_TVD.Controls.Add(this.labelInfo_TVD);
@@ -105,16 +85,6 @@ namespace Tyuiu.TarasovVD.Sprint6.Task6.V6
             this.labelInfo_TVD.Size = new System.Drawing.Size(598, 26);
             this.labelInfo_TVD.TabIndex = 0;
             this.labelInfo_TVD.Text = resources.GetString("labelInfo_TVD.Text");
-            // 
-            // buttonOpenFile_TVD
-            // 
-            this.buttonOpenFile_TVD.Location = new System.Drawing.Point(3, 3);
-            this.buttonOpenFile_TVD.Name = "buttonOpenFile_TVD";
-            this.buttonOpenFile_TVD.Size = new System.Drawing.Size(75, 56);
-            this.buttonOpenFile_TVD.TabIndex = 0;
-            this.toolTip_TVD.SetToolTip(this.buttonOpenFile_TVD, "Открыть файл\r\nВыберите нужный файл для обработки\r\n");
-            this.buttonOpenFile_TVD.UseVisualStyleBackColor = true;
-            this.buttonOpenFile_TVD.Click += new System.EventHandler(this.buttonOpenFile_TVD_Click);
             // 
             // panelLeft_TVD
             // 
@@ -138,12 +108,12 @@ namespace Tyuiu.TarasovVD.Sprint6.Task6.V6
             // 
             // textBoxInPutData_TVD
             // 
-            this.textBoxInPutData_TVD.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.textBoxInPutData_TVD.Location = new System.Drawing.Point(3, 16);
+            this.textBoxInPutData_TVD.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.textBoxInPutData_TVD.Location = new System.Drawing.Point(3, 41);
             this.textBoxInPutData_TVD.Multiline = true;
             this.textBoxInPutData_TVD.Name = "textBoxInPutData_TVD";
             this.textBoxInPutData_TVD.ReadOnly = true;
-            this.textBoxInPutData_TVD.Size = new System.Drawing.Size(303, 298);
+            this.textBoxInPutData_TVD.Size = new System.Drawing.Size(303, 273);
             this.textBoxInPutData_TVD.TabIndex = 0;
             // 
             // splitterLeft_TVD
@@ -192,6 +162,40 @@ namespace Tyuiu.TarasovVD.Sprint6.Task6.V6
             // 
             this.toolTip_TVD.ToolTipIcon = System.Windows.Forms.ToolTipIcon.Info;
             this.toolTip_TVD.ToolTipTitle = "Подсказка";
+            // 
+            // buttonHelp_TVD
+            // 
+            this.buttonHelp_TVD.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.buttonHelp_TVD.Image = global::Tyuiu.TarasovVD.Sprint6.Task6.V6.Properties.Resources.help;
+            this.buttonHelp_TVD.Location = new System.Drawing.Point(551, 4);
+            this.buttonHelp_TVD.Name = "buttonHelp_TVD";
+            this.buttonHelp_TVD.Size = new System.Drawing.Size(75, 56);
+            this.buttonHelp_TVD.TabIndex = 3;
+            this.toolTip_TVD.SetToolTip(this.buttonHelp_TVD, "Сведения о программе");
+            this.buttonHelp_TVD.UseVisualStyleBackColor = true;
+            this.buttonHelp_TVD.Click += new System.EventHandler(this.buttonHelp_TVD_Click);
+            // 
+            // buttonDone_TVD
+            // 
+            this.buttonDone_TVD.Enabled = false;
+            this.buttonDone_TVD.Image = global::Tyuiu.TarasovVD.Sprint6.Task6.V6.Properties.Resources.page_go;
+            this.buttonDone_TVD.Location = new System.Drawing.Point(84, 4);
+            this.buttonDone_TVD.Name = "buttonDone_TVD";
+            this.buttonDone_TVD.Size = new System.Drawing.Size(75, 56);
+            this.buttonDone_TVD.TabIndex = 2;
+            this.buttonDone_TVD.UseVisualStyleBackColor = true;
+            this.buttonDone_TVD.Click += new System.EventHandler(this.buttonDone_TVD_Click);
+            // 
+            // buttonOpenFile_TVD
+            // 
+            this.buttonOpenFile_TVD.Image = global::Tyuiu.TarasovVD.Sprint6.Task6.V6.Properties.Resources.folder_page;
+            this.buttonOpenFile_TVD.Location = new System.Drawing.Point(3, 3);
+            this.buttonOpenFile_TVD.Name = "buttonOpenFile_TVD";
+            this.buttonOpenFile_TVD.Size = new System.Drawing.Size(75, 56);
+            this.buttonOpenFile_TVD.TabIndex = 0;
+            this.toolTip_TVD.SetToolTip(this.buttonOpenFile_TVD, "Открыть файл\r\nВыберите нужный файл для обработки\r\n");
+            this.buttonOpenFile_TVD.UseVisualStyleBackColor = true;
+            this.buttonOpenFile_TVD.Click += new System.EventHandler(this.buttonOpenFile_TVD_Click);
             // 
             // FormMain
             // 

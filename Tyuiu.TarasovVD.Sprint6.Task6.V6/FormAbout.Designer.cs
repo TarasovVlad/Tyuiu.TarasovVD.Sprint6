@@ -38,7 +38,7 @@ namespace Tyuiu.TarasovVD.Sprint6.Task6.V6
             // 
             // pictureBoxPhoto_TVD
             // 
-            this.pictureBoxPhoto_TVD.Image = global::Tyuiu.TarasovVD.Sprint6.Task6.V6.Properties.Resources.DSC_0618;
+            this.pictureBoxPhoto_TVD.Image = global::Tyuiu.TarasovVD.Sprint6.Task6.V6.Properties.Resources.qnu7dm_VY74__1__min;
             this.pictureBoxPhoto_TVD.Location = new System.Drawing.Point(13, 13);
             this.pictureBoxPhoto_TVD.Name = "pictureBoxPhoto_TVD";
             this.pictureBoxPhoto_TVD.Size = new System.Drawing.Size(100, 136);

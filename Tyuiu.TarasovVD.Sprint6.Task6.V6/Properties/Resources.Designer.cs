@@ -99,5 +99,25 @@ namespace Tyuiu.TarasovVD.Sprint6.Task6.V6.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap qnu7dm_VY74__1_ {
+            get {
+                object obj = ResourceManager.GetObject("qnu7dm-VY74 (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap qnu7dm_VY74__1__min {
+            get {
+                object obj = ResourceManager.GetObject("qnu7dm-VY74 (1)-min", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

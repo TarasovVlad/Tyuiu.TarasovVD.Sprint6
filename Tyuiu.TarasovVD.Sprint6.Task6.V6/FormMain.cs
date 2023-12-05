@@ -27,7 +27,7 @@ namespace Tyuiu.TarasovVD.Sprint6.Task6.V6
             openFileDialogTask_TVD.ShowDialog();
             openFilePath = openFileDialogTask_TVD.FileName;
             textBoxInPutData_TVD.Text = File.ReadAllText(openFilePath);
-            groupBoxOutPutData_TVD.Text = groupBoxOutPutData_TVD + " " + openFileDialogTask_TVD.FileName;
+            groupBoxInPutData_TVD.Text = groupBoxInPutData_TVD.Text + " " + openFileDialogTask_TVD.FileName;
             buttonDone_TVD.Enabled = true;
 
         }
